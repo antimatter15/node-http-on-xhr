@@ -1,0 +1,12 @@
+What is this? This is a implementation of a node-js 
+(which I think is based on commonJS's thing, just 
+skimmed the spec so I have no idea if it's the same)
+-like http module that runs in the browser (or a chrome
+extension) based on XMLHttpRequest.
+
+It isn't a CommonJS module because I have no need for
+any commonJS magic. 
+
+I probably should have done more extensive googling before
+actually starting this project since no doubt another similar
+and less hacky one exists.
